@@ -21,7 +21,7 @@ This project provides a Python script designed to process images for object dete
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://your-repository-url.git
+   git clone https://github.com/VMatee/drawboxtools-helper.git
    cd your-repository-directory
 2. **Install Required Python Packages:**
 Install the required Python packages using the provided requirements.txt:
